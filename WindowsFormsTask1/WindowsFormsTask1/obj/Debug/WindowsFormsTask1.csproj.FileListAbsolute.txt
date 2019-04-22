@@ -1,0 +1,12 @@
+C:\Users\stas1\source\repos\WindowsFormsTask1\WindowsFormsTask1\bin\Debug\WindowsFormsTask1.exe.config
+C:\Users\stas1\source\repos\WindowsFormsTask1\WindowsFormsTask1\bin\Debug\WindowsFormsTask1.exe
+C:\Users\stas1\source\repos\WindowsFormsTask1\WindowsFormsTask1\bin\Debug\WindowsFormsTask1.pdb
+C:\Users\stas1\source\repos\WindowsFormsTask1\WindowsFormsTask1\obj\Debug\WindowsFormsTask1.csprojAssemblyReference.cache
+C:\Users\stas1\source\repos\WindowsFormsTask1\WindowsFormsTask1\obj\Debug\WindowsFormsTask1.CustomersForm.resources
+C:\Users\stas1\source\repos\WindowsFormsTask1\WindowsFormsTask1\obj\Debug\WindowsFormsTask1.Properties.Resources.resources
+C:\Users\stas1\source\repos\WindowsFormsTask1\WindowsFormsTask1\obj\Debug\WindowsFormsTask1.csproj.GenerateResource.cache
+C:\Users\stas1\source\repos\WindowsFormsTask1\WindowsFormsTask1\obj\Debug\WindowsFormsTask1.csproj.CoreCompileInputs.cache
+C:\Users\stas1\source\repos\WindowsFormsTask1\WindowsFormsTask1\obj\Debug\WindowsFormsTask1.exe
+C:\Users\stas1\source\repos\WindowsFormsTask1\WindowsFormsTask1\obj\Debug\WindowsFormsTask1.pdb
+C:\Users\stas1\source\repos\WindowsFormsTask1\WindowsFormsTask1\obj\Debug\WindowsFormsTask1.AddingForm.resources
+C:\Users\stas1\source\repos\WindowsFormsTask1\WindowsFormsTask1\obj\Debug\WindowsFormsTask1.AddCustomerForm.resources
